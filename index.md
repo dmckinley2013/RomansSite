@@ -1,7 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+order: 2
+landing-title: 'Quality Dive Instruction'
 description: null
 image: null
 author: null

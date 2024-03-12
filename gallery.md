@@ -1,6 +1,7 @@
 ---
-layout: allposts
-title: All posts
+layout: gallery
+title: Gallery
+order: 5
 landing-title: 'All posts'
 nav-menu: true
 description: null

@@ -1,6 +1,7 @@
 ---
-layout: post
-title: Generic
+layout: aboutMe
+title: About Me
+order: 3
 description: Lorem ipsum dolor est
 image: assets/images/pic11.jpg
 nav-menu: true
